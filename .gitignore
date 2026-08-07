@@ -1,0 +1,11 @@
+# Ignore all executable binary files (files with no extension)
+*
+!*.*
+
+# Keep important files with no extension (like README)
+!README*
+!LICENSE*
+!Makefile
+
+# Ignore VS Code configuration build folders
+.vscode/
