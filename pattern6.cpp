@@ -32,7 +32,7 @@ int main( ){
     char row,col;
     for(row='a';row<='e';row++){
         for(col='a';col<=row;col++){
-            cout<<row <<" ";
+            cout<<row  <<" ";
         }
         cout<<endl;
     }
