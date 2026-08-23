@@ -14,5 +14,5 @@ int main(){
 cin>>a>>b;
 myswap(a,b);
 cout<<a<<b<<endl;
-return 0; 
+return 0;    
 }
